@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "busao",
-    "slug": "busao",
+    "name": "tasklist",
+    "slug": "tasklist",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,10 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       }
+    },
+    "androidStatusBar":{
+      "barStyle": "light-content",
+      "backgroundColor": "#000"
     },
     "web": {
       "favicon": "./assets/favicon.png"
